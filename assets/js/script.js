@@ -1,5 +1,5 @@
 document.querySelector(".social").addEventListener("click", function () {
-    window.location.href = "https://t.me/cankayaofficial";
+    window.location.href = "https://t.me/serdardayi";
 })
 
 document.querySelector(".tntCount").addEventListener("click", function () {
